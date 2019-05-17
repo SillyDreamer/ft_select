@@ -14,8 +14,8 @@ The main goal, however, is to build my own functional shell. Something like `zsh
 To be able to build and run this program, you'll need:
 
 * A Unix system
-* GNU make (v3.81)
-* GCC (v4.2.1)
+* GNU make
+* GCC
 
 Those are the versions used during development.
 
@@ -29,7 +29,7 @@ If you're on Linux, make sure you install
 
 1. Download/Clone this repo
 
-		git clone https://github.com/r4meau/ft_select
+		git clone https://github.com/SillyDreamer/ft_select.git
 
 2. `cd` into the root directory and run `make`
 
