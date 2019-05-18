@@ -38,7 +38,9 @@ If you're on Linux, make sure you install
 
 ### Running
 
-A basic usage would involve at least one argument:
+Example:
 
  	./ft_select hello
+	./ft_select *
+	
 
