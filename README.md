@@ -43,4 +43,10 @@ Example:
  	./ft_select hello
 	./ft_select *
 	
+Buttons:
+	backspaces -> go back to the folder
+	tab -> go to the folder
+	del -> delete
+	space -> select
+	enter -> return selected files
 
