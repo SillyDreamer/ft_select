@@ -44,6 +44,7 @@ Example:
 	./ft_select *
 	
 Buttons:
+
 	backspaces -> go back to the folder
 	tab -> go to the folder
 	del -> delete
